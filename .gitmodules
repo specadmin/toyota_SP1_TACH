@@ -1,0 +1,6 @@
+[submodule "lib/avr-misc"]
+	path = lib/avr-misc
+	url = https://github.com/specadmin/avr-misc
+[submodule "lib/avr-debug"]
+	path = lib/avr-debug
+	url = https://github.com/specadmin/avr-debug
